@@ -30,7 +30,7 @@ const Menus = () => {
             <Link to="/ter-control">TERMITE CONTROL</Link>
           </li>
           <li>
-            <Link to="/bug-control">RODENT CONTROL</Link>
+            <Link to="/ro-control">RODENT CONTROL</Link>
           </li>
           <li>
             <Link to="/sna-control">SNAKE CONTROL</Link>

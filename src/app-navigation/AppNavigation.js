@@ -22,6 +22,9 @@ import CockroachControl from '../components/Pages/CockroachControl/CockroachCont
 import AntsControl from '../components/Pages/AntsControl/AntsControl';
 import BugControl from '../components/Pages/BugControl/BugControl';
 import TerControl from '../components/Pages/TermiteControl/TerControl';
+import RoControl from '../components/Pages/RodentControl/RoControl';
+import TypesControl from '../components/Pages/types/TerControl';
+import SnaControl from '../components/Pages/sna/SnaControl';
 
 const AppNavigation = () => {
   return (
@@ -46,6 +49,10 @@ const AppNavigation = () => {
         <Route path="/ants-control" element={<AntsControl />} />
         <Route path="/bug-control" element={<BugControl />} />
         <Route path="/ter-control" element={<TerControl />} />
+        <Route path="/ro-control" element={<RoControl />} />
+        <Route path="/type-control" element={<TypesControl />} />
+        <Route path="/sna-control" element={<SnaControl />} />
+
 
       </Routes>
       <BackToTop/>

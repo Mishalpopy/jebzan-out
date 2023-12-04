@@ -10,12 +10,12 @@ const ServiceDetailsAbout = () => {
           <div className="row pb-30">
             <div className="col-lg-6 mb-30">
               <div className="tp-sv-inner-img w-img">
-                <img src="/assets/img/ter/bg-1.png" alt="" />
+                <img src="/assets/img/sna/bg-1.png" alt="" />
               </div>
             </div>
             <div className="col-lg-6 mb-30">
               <div className="tp-sv-inner-img w-img">
-                <img src="/assets/img/ter/bg-2.png" alt="" />
+                <img src="/assets/img/sna/bg-2.png" alt="" />
               </div>
             </div>
           </div>
@@ -23,14 +23,14 @@ const ServiceDetailsAbout = () => {
             <div className="col-lg-12">
               <div className="tp-sv__content">
               <p>
-              JEZBEN Services team will assess the specific needs of your property and customize a treatment plan accordingly. Additionally, the choice of treatment method may depend on the type of termite species infesting your home, as different species may respond differently to treatments.{" "}
+              Snake control in the UAE is important for safety, especially in areas where venomous snakes are present. Here are some measures for snake control.{" "}
                 </p>
               {/* <!-- promotion area start  --> */}
       <div className="tp-promotion-area p-relative grey-bg-4">
         <div
           className="tp-promotion-bg grey-bg"
           style={{
-            backgroundImage: `url('assets/img/ter/001.png')`,
+            backgroundImage: `url('assets/img/sna/001.png')`,
           }}
         ></div>
         <div className="container">
@@ -39,15 +39,19 @@ const ServiceDetailsAbout = () => {
               <div className="tp-promotion-info pt-60 pb-80 pl-60">
                 <div className="tp-section-wrapper">
                   <span className="tp-section-subtitle mb-15">
-                  Chemical Treatments
+                  Preventive Measures
                   </span>
                   <h2 className="tp-pt-size mb-30">
-                  Liquid Termiticides<br></br>Forming a Fortified Shield Against Termite Intrusion
+                  Snake Prevention<br></br>Securing Your Property and Environment
                   </h2>
                 </div>
                 <div className="tp-promotion-progress">
                   <div className="tp-progress-item p-relative mb-25">
-                  <p>Pest control professionals may apply liquid termiticides to the soil around the foundation of your home. These chemicals create a protective barrier, preventing termites from entering your property. There are different types of liquid termiticides, and the choice depends on the severity of the infestation.</p>
+                  <p>   - Maintain a well-maintained and clean environment to discourage snakes from entering your property.
+<br />   - Seal any gaps or openings in walls, doors, and windows to prevent snake entry.
+<br /> - Keep grass and vegetation trimmed, as tall grass can provide hiding spots for snakes.
+<br />- Remove piles of debris, wood, and rocks, which can be snake hiding places.
+</p>
                   </div>
               
                 </div>
@@ -61,24 +65,27 @@ const ServiceDetailsAbout = () => {
         <div
           className="tp-promotion-bg-2"
           style={{
-            backgroundImage: `url('assets/img/ter/002.png')`,
+            backgroundImage: `url('assets/img/sna/002.png')`,
           }}
-         ></div>
+        ></div>
         <div className="container-fluid">
           <div className="row">
             <div className="col-lg-6">
               <div className="tp-promotion-info pt-60 pb-80 pl-60">
                 <div className="tp-section-wrapper">
                   <span className="tp-section-subtitle mb-15">
-                  Baiting Systems
+                  Professional Services
                   </span>
                   <h2 className="tp-pt-size mb-30">
-                  Strategic Defense<br></br> How Termite Bait Stations Safeguard Your Property
+                  Snake Encounter? <br></br>Leave it to Professionals for Safe Removal
                   </h2>
                 </div>
                 <div className="tp-promotion-progress">
                   <div className="tp-progress-item p-relative mb-25">
-                  <p>Termite bait stations are strategically placed in the ground around your property. These stations contain cellulose material that termites find attractive. When termites feed on the bait, they also ingest a slow-acting termiticide. This poisoned bait is carried back to the colony, eventually eliminating it.</p>
+                  <p>  - If you encounter a snake on your property, especially if you suspect it's venomous, do not attempt to handle or capture it yourself.
+<br />   - Contact a JEZBEN Services or local wildlife authorities to safely capture and relocate the snake.
+
+</p>
                   </div>
               
                 </div>
@@ -94,7 +101,7 @@ const ServiceDetailsAbout = () => {
         <div
           className="tp-promotion-bg grey-bg"
           style={{
-            backgroundImage: `url('assets/img/ter/003.png')`,
+            backgroundImage: `url('assets/img/sna/003.png')`,
           }}
         ></div>
         <div className="container">
@@ -103,15 +110,18 @@ const ServiceDetailsAbout = () => {
               <div className="tp-promotion-info pt-60 pb-80 pl-60">
                 <div className="tp-section-wrapper">
                   <span className="tp-section-subtitle mb-15">
-                  Physical Barriers
+                  Snake Repellents
                   </span>
                   <h2 className="tp-pt-size mb-30">
-                  Metal and Concrete Defense<br></br>Fortifying Your Home with Termite Shields
+                  Snake Repellents<br></br>Use Cautiously and Follow Instructions
                   </h2>
                 </div>
                 <div className="tp-promotion-progress">
                   <div className="tp-progress-item p-relative mb-25">
-                  <p>Termite shields are metal barriers installed between the foundation and wooden elements of your home. They prevent termites from accessing your house through hidden entry points.</p>
+                  <p>  - Some snake repellent products are available, but their effectiveness varies, and they may not work for all snake species.
+<br />   - It's essential to use repellents cautiously and follow product instructions.
+
+</p>
                   </div>
               
                 </div>
@@ -125,7 +135,7 @@ const ServiceDetailsAbout = () => {
         <div
           className="tp-promotion-bg-2"
           style={{
-            backgroundImage: `url('assets/img/ter/004.png')`,
+            backgroundImage: `url('assets/img/sna/004.png')`,
           }}
         ></div>
         <div className="container-fluid">
@@ -134,15 +144,18 @@ const ServiceDetailsAbout = () => {
               <div className="tp-promotion-info pt-60 pb-80 pl-60">
                 <div className="tp-section-wrapper">
                   <span className="tp-section-subtitle mb-15">
-                  Regular Monitoring
+                  Education and Awareness
                   </span>
                   <h2 className="tp-pt-size mb-30">
-                  Vigilant Oversight<br></br>The Importance of Regular Termite Activity Checks
+                  Snake Awareness<br></br>Know Your Snakes and Stay Safe
                   </h2>
                 </div>
                 <div className="tp-promotion-progress">
                   <div className="tp-progress-item p-relative mb-25">
-                  <p>After treatment, regular monitoring is crucial. JEZBEN professionals will inspect bait stations and the treated areas to ensure termites are not returning. Monitoring helps detect and address any new termite activity promptly.</p>
+                  <p>   - Educate yourself and your community about the types of snakes in the UAE, particularly venomous species.
+<br />   - Teach people how to react when they encounter a snake to minimize the risk of snakebites.
+
+</p>
                   </div>
               
                 </div>
@@ -165,7 +178,7 @@ const ServiceDetailsAbout = () => {
         <div
           className="tp-promotion-bg grey-bg"
           style={{
-            backgroundImage: `url('assets/img/ter/005.png')`,
+            backgroundImage: `url('assets/img/sna/005.png')`,
           }}
         ></div>
         <div className="container">
@@ -174,16 +187,83 @@ const ServiceDetailsAbout = () => {
               <div className="tp-promotion-info pt-60 pb-80 pl-60">
                 <div className="tp-section-wrapper">
                   <span className="tp-section-subtitle mb-15">
-                  Maintenance
+                  Snake-Proof Fencing
                   </span>
                   <h2 className="tp-pt-size mb-30">
-                  Dry Defense<br></br>Minimizing Moisture to Deter Termite Infestation
+                  Snake-Proof Fencing<br></br>Effective Defense for High-Risk Areas
                   </h2>
                 </div>
                 <div className="tp-promotion-progress">
                   <div className="tp-progress-item p-relative mb-25">
-                  <p>moisture sources around your property is essential because termites are attracted to damp environments. Fix any leaks or drainage issues promptly.</p>
-                  <p>Repair any damaged wood promptly. Termites are drawn to weakened or decaying wood.</p>
+                  <p>   - In some cases, installing snake-proof fencing can be effective, especially if you live in an area with a high snake population.
+<br />   - Snake-proof fencing typically includes fine mesh and extends into the ground to prevent snakes from burrowing underneath.
+</p>
+                  </div>
+              
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="tp-promotion-area p-relative grey-bg-4">
+        <div
+          className="tp-promotion-bg-2"
+          style={{
+            backgroundImage: `url('assets/img/sna/006.png')`,
+          }}
+        ></div>
+        <div className="container-fluid">
+          <div className="row">
+            <div className="col-lg-6">
+              <div className="tp-promotion-info pt-60 pb-80 pl-60">
+                <div className="tp-section-wrapper">
+                  <span className="tp-section-subtitle mb-15">
+                  Landscape Design
+                  </span>
+                  <h2 className="tp-pt-size mb-30">
+                  Landscaping for Snake Prevention<br></br>Designing a Snake-Free Environment
+                  </h2>
+                </div>
+                <div className="tp-promotion-progress">
+                  <div className="tp-progress-item p-relative mb-25">
+                  <p>  - When designing landscaping, consider snake prevention. Avoid creating hiding spots or attractive habitats for snakes.
+</p>
+                  </div>
+              
+                </div>
+             
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {/* <!-- promotion area end  --> */}
+      
+                   {/* <!-- promotion area start  --> */}
+                   <div className="tp-promotion-area p-relative grey-bg-4">
+        <div
+          className="tp-promotion-bg grey-bg"
+          style={{
+            backgroundImage: `url('assets/img/sna/007.png')`,
+          }}
+        ></div>
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-6 offset-lg-6">
+              <div className="tp-promotion-info pt-60 pb-80 pl-60">
+                <div className="tp-section-wrapper">
+                  <span className="tp-section-subtitle mb-15">
+                  Regular Inspections
+                  </span>
+                  <h2 className="tp-pt-size mb-30">
+                  Regular Snake Checks<br></br>Monitoring Signs on Your Property
+                  </h2>
+                </div>
+                <div className="tp-promotion-progress">
+                  <div className="tp-progress-item p-relative mb-25">
+                  <p>Periodically inspect your property for signs of snake activity, such as shed skins or burrows.</p>
                   </div>
               
                 </div>
@@ -194,28 +274,22 @@ const ServiceDetailsAbout = () => {
       </div>
 
 
-  
-
-
       {/* <!-- promotion area end  --> */}
 
                 <h4 className="tp-sv__subtitle pt-100">
-                In the battle against termite infestation, employing a multifaceted approach proves to be the key to success. From the application of potent chemical treatments like liquid termiticides, forming a protective barrier around your home's foundation, to the strategic placement of bait stations enticing termites with their slow-acting termiticides, each method plays a crucial role.
+                Snake Control in the UAE  A Pest-Free Promise
                 </h4>
                 <p>
-                Physical barriers, such as termite shields and concrete fortifications, add an extra layer of defense, preventing termites from exploiting hidden entry points. However, the journey doesn't end with treatment – regular monitoring is imperative. JEZBEN professionals conduct thorough inspections, ensuring that treated areas and bait stations remain termite-free, thus preemptively addressing any signs of resurgence.
+                It's important to note that many snakes in the UAE are non-venomous and play a role in controlling rodent populations. If you encounter a snake, it's best to treat it with caution and contact JEZBEN Services or a wildlife expert for proper identification and removal if necessary. Venomous snake bites can be life-threatening, so never attempt to handle or approach a snake unless you are trained to do so safely.
                 </p>
-                <p>
-                Yet, the responsibility extends beyond professional intervention. Homeowners must actively participate in maintenance measures. Reducing moisture sources and promptly fixing leaks or drainage issues create an environment less conducive to termite attraction. Timely repairs to damaged wood further disrupt the appeal of weakened structures to these persistent pests.
-                </p>
-
+  
  
                 <div className="tp-sv__video">
                   <div
                     className="tp_sv__video-bg"
                     // data-background="/assets/img/service/service-blog-bg.jpg"
                     style={{
-                      backgroundImage: `url("/assets/img/ter/bg.png")`,
+                      backgroundImage: `url("/assets/img/sna/bg.jpg")`,
                     }}
                   >
                     <div className="pt-180 pb-180 text-center p-relative">
